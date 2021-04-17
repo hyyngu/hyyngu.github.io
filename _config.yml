@@ -15,8 +15,8 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: 能不能不要出bug
-  tagline: 本博客于2020-04-18初步搭建成功，分享一些个人学习和工作中的内容
+  title: 信仰
+  tagline: 本博客于2020-04-18初步搭建成功，分享一些个人学习和工作中的内容，以下内容均为测试数据
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
