@@ -1,4 +1,4 @@
-title: 个人博客
+title: hyyngu
 author: hyy
 email: 1198739785@qq.com
 description: > # this means to ignore newlines until "show_exerpts:"
@@ -15,8 +15,8 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: 程序小白
-  tagline: 个人学习工作中的技术总结
+  title: 能不能不要出bug
+  tagline: 本博客于2020-04-18初步搭建成功，分享一些个人学习和工作中的内容
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
