@@ -15,7 +15,7 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: hyyngu
+  title: 程序小白
   tagline: 个人学习工作中的技术总结
   date_format: "%b %-d, %Y"
   style: black
@@ -23,11 +23,11 @@ texture:
   showPicker: false
 
   # generate social links in footer
-  social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
-    rss: rss
+  #social_links:
+    #twitter: thelehhman
+    #github:  thelehhman
+    #linkedIn: in/thelehhman
+    #rss: rss
  
 
 # If you want to link only specific pages in your header, uncomment
